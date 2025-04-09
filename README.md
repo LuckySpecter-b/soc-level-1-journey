@@ -1,5 +1,3 @@
-# soc-level-1-journey
-"Tracking my progress through TryHackMe's SOC Level 1 Path."
 # SOC Level 1 Cybersecurity Journey 🚀
 
 Welcome to my hands-on cybersecurity journey as I work through the **TryHackMe SOC Level 1 Path**.

@@ -75,8 +75,8 @@ This repo shows my:
 
 ## 👊 Connect With Me
 
-- [LinkedIn](your-linkedin-url)
-- [TryHackMe Profile](your-tryhackme-profile-url)
+- [LinkedIn](https://www.linkedin.com/in/brandon-lozano12/)
+- [TryHackMe Profile](https://tryhackme.com/p/BSpecter)
 
 (Feel free to reach out if you want to collaborate or chat cybersecurity.)
 
